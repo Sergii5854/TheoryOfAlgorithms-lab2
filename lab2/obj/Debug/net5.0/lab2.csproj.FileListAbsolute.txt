@@ -1,0 +1,16 @@
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.deps.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\bin\Debug\net5.0\lab2.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\refint\lab2.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Бондаренко Сергій Іванович\Теорія Алгоритмів\lab2\lab2\obj\Debug\net5.0\ref\lab2.dll
